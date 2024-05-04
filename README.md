@@ -2,6 +2,9 @@
 
 This project involves the classification of network traffic data. The data is preprocessed, explored, and then used to train various machine learning and deep learning models.
 
+### Dataset
+https://research.unsw.edu.au/projects/unsw-nb15-dataset
+
 ### Code Description
 
 1. **Data Loading and Preprocessing**: Four CSV files are loaded, combined, and cleaned. This includes handling missing values, normalization, and encoding categorical features.
